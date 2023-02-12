@@ -1,4 +1,4 @@
-# To Do List
+# To Do List with local storage
 
 This is a To Do Webapp with local storage.
 
